@@ -7,6 +7,10 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+.modal-body img {
+    max-height: 80vh;
+    object-fit: contain;
+}
 h1,
 h2,
 h3,
