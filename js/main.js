@@ -120,7 +120,7 @@
         "media": [
             {
                 "type": "image",
-                "src": "img/adminPage.png",
+                "src": "img/projets/01-admin-page/01-page-administration.png",
                 "alt": "Page d'administration"
             }
         ]
@@ -133,7 +133,7 @@
         "media": [
             {
                 "type": "image",
-                "src": "img/prj1.png",
+                "src": "img/projets/02-site-agence-automobile/01-accueil.png",
                 "alt": "Accueil du site de l'agence automobile"
             }
         ],
@@ -150,8 +150,8 @@
         "media": [
             {
                 "type": "video",
-                "src": "img/stage.mp4",
-                "poster": "img/Cure.png"
+                "src": "img/projets/03-suivi-anomalies-bloc-sanitaire/video/demo.mp4",
+                "poster": "img/projets/03-suivi-anomalies-bloc-sanitaire/01-connexion.png"
             }
         ]
     },
@@ -161,40 +161,81 @@
             "L'application propose un tableau de bord, le suivi des cotisations et des impayés, les charges et dépenses, ainsi que le budget annuel avec indicateurs et graphiques d'évolution."
         ],
         "media": [
+            
             {
                 "type": "image",
-                "src": "img/BL1.PNG",
+                "src": "img/projets/04-erp-syndic-location/01-connexion.png",
                 "alt": "ERP syndic – écran 1"
             },
             {
                 "type": "image",
-                "src": "img/BL3.PNG",
+                "src": "img/projets/04-erp-syndic-location/02-separateur-espace-agent-syndic.png",
                 "alt": "ERP syndic – écran 2"
             },
             {
                 "type": "image",
-                "src": "img/BL4.PNG",
+                "src": "img/projets/04-erp-syndic-location/03-syndic-tableau-de-bord.png",
                 "alt": "ERP syndic – écran 3"
             },
             {
                 "type": "image",
-                "src": "img/BL5.PNG",
+                "src": "img/projets/04-erp-syndic-location/04-syndic-cotisations.png",
                 "alt": "ERP syndic – écran 4"
             },
             {
                 "type": "image",
-                "src": "img/BL6.PNG",
+                "src": "img/projets/04-erp-syndic-location/05-syndic-charges-depenses.png",
                 "alt": "ERP syndic – écran 5"
             },
             {
                 "type": "image",
-                "src": "img/BL7.PNG",
+                "src": "img/projets/04-erp-syndic-location/06-syndic-budget-annuel.png",
                 "alt": "ERP syndic – écran 6"
             },
             {
                 "type": "image",
-                "src": "img/BL8.PNG",
+                "src": "img/projets/04-erp-syndic-location/07-syndic-coproprietaires.png",
                 "alt": "ERP syndic – écran 7"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/08-syndic-reclamations.png",
+                "alt": "ERP syndic – écran 8"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/09-separateur-espace-agent-location.png",
+                "alt": "ERP syndic – écran 8"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/10-location-tableau-de-bord.png",
+                "alt": "ERP syndic – écran 9"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/11-location-contrats.png",
+                "alt": "ERP syndic – écran 10"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/12-location-locataires.png",
+                "alt": "ERP syndic – écran 11"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/13-location-paiements-loyer.png",
+                "alt": "ERP syndic – écran 12"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/14-separateur-espace-resident.png",
+                "alt": "ERP syndic – écran 13"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/04-erp-syndic-location/15-resident-tableau-de-bord.png",
+                "alt": "ERP syndic – écran 14"
             }
         ],
        
@@ -207,44 +248,90 @@
         "media": [
             {
                 "type": "image",
-                "src": "img/prj2.png",
+                "src": "img/projets/05-base-de-donnees-club/01-mysql-workbench.png",
                 "alt": "Base de données dans MySQL Workbench"
             }
         ]
     },
     "fitness": {
         "description": [
-            "Création du site d'un club de fitness avec WordPress : page d'accueil percutante, présentation du club et accès au coaching en ligne."
+            "Aperçu de la page complète du site du club de fitness, du bandeau d'accueil jusqu'au pied de page.",
+            "Faites défiler la capture pour voir la page entière."
         ],
         "media": [
             {
                 "type": "image",
-                "src": "img/prj3.png",
-                "alt": "Accueil du site Dani Fitness"
+                "src": "img/projets/06-site-club-fitness/01-page-complete.jpg",
+                "alt": "Maquette du site de fitness"
             }
-        ]
+        ],
+        "fit": "scroll"
     },
     "daris": {
         "description": [
-            "Proposition de site pour Daris Développement : présentation du groupe, de ses réalisations et projets récents, témoignages clients et contact."
+            "Aperçu des pages complètes de la proposition de site Daris Développement : accueil, présentation du groupe, réalisations, projets récents et témoignages clients.",
+            "Faites défiler chaque capture pour voir la page entière."
         ],
         "media": [
             {
                 "type": "image",
-                "src": "img/prj4.png",
-                "alt": "Accueil du site Daris Développement"
+                "src": "img/projets/07-site-daris-developpement/01-page-1.jpg",
+                "alt": "Maquette Daris – page 1"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/07-site-daris-developpement/02-page-2.jpg",
+                "alt": "Maquette Daris – page 2"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/07-site-daris-developpement/03-page-3.jpg",
+                "alt": "Maquette Daris – page 3"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/07-site-daris-developpement/04-page-4.jpg",
+                "alt": "Maquette Daris – page 4"
+            },
+            {
+                "type": "image",
+                "src": "img/projets/07-site-daris-developpement/05-page-5.jpg",
+                "alt": "Maquette Daris – page 5"
             }
-        ]
+        ],
+        "fit": "scroll"
     },
+
     "cfcae": {
     "description": [
         "LLe projet CFCAE est une application web destinée à faciliter la gestion du cabinet de formation. Elle permet de gérer les formations, les sessions, les candidats, les inscriptions et les évaluations QCM. Elle permet également de suivre les résultats et de générer des certificats de formation au format PDF."
     ],
     "media": [
-        { "type": "video", "src": "img/cfcae.mp4", "poster": "img/cfcae_projet.jpg" }
+        { "type": "video", "src": "img/projets/08-cfcae-gestion-formations/video/demo.mp4", "poster": "img/projets/08-cfcae-gestion-formations/01-tableau-de-bord-admin.jpg" }
     ]
-    }
+    },
 
+    "kamiloc": {
+    "description": [
+        "Gestion de page Instagram : création des Videos, visuels et du contenu, animation des comptes et publication régulière pour développer la visibilité et l'image de marque.",
+    ],
+    "media": [
+        { "type": "image", "src": "img/projets/09-instagram-kamiloc-agency/02-page-instagram.png", "alt": "Page Instagram" },
+
+    ],
+    "link": { "href": "https://www.instagram.com/kamiloc.agency/", "label": "Voir la page Instagram" }
+    },
+
+    "cfcae_design": {
+    "description": [
+        "Gestion de page Instagram : création des Videos, visuels et du contenu, animation des comptes et publication régulière pour développer la visibilité et l'image de marque.",
+    ],
+    "media": [
+        { "type": "image", "src": "img/projets/10-instagram-cabinet-cfcae/02-page-instagram.png", "alt": "Page Instagram" },
+
+    ],
+    "link": { "href": "https://www.instagram.com/cabinet.cfcae/", "label": "Voir la page Instagram" }
+    }
 };
     var container = document.querySelector('.portfolio-container');
     if (!container) return;
